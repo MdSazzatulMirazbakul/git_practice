@@ -6,3 +6,4 @@ print(df)
 # Learning  how git tracks code changes.
 # Understanding git staging area.
 # Developing a machine learning model.
+# Main project development continues here.
