@@ -7,9 +7,9 @@ print(df)
 # Understanding git staging area.
 # Developing a machine learning model.
 def clean_data(data):
-    cleaned_data = [value for value in data if value is not nun]
+    cleaned_data = [value for value in data if value is not None]
     return cleaned_data
 
 
-sample_data = [10, 20, nun, 30, nun, nun, 40]
+sample_data = [10, 20, None , 30, None, None, 40]
 print(clean_data(sample_data))
