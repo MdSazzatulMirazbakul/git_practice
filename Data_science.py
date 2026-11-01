@@ -5,3 +5,4 @@ print(df)
 # Practicing Git version control
 # Learning  how git tracks code changes.
 # Understanding git staging area.
+# Developing a machine learning model.
