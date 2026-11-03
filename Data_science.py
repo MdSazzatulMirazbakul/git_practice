@@ -14,3 +14,4 @@ def clean_data(data):
 
 sample_data = [10, 20, None , 30, None, None, 40]
 print(clean_data(sample_data))
+# Preparing data visualization features.
